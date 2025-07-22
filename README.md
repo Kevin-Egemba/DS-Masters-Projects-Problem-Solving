@@ -85,7 +85,8 @@ pip install -r requirements.txt
 Kevin Egemba  
 M.S. in Data Science Candidate, Boston University  
 Data Manager | Data Analyst | Aspiring Data Scientist  
-Email: kevin@example.com  
-LinkedIn: https://www.linkedin.com/in/your-profile  
-GitHub: https://github.com/your-github
+Email: kegemba10@gmail.com 
+LinkedIn: www.linkedin.com/in/kevin-egemba-487066210
+
+GitHub: https://github.com/Kevin-Egemba
 
